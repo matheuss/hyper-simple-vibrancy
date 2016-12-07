@@ -1,0 +1,12 @@
+{
+  "name": "hyper-simple-vibrancy",
+  "version": "0.1.0",
+  "description": "Simple plguins to demonstrate the virancy capabilites of Hyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Fernandes <npm@matheus.top> (https://matheus.top/)",
+  "license": "MIT",
+  "repository": "matheuss/hyper-simple-vibrancy"
+}
