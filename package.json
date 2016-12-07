@@ -1,7 +1,7 @@
 {
   "name": "hyper-simple-vibrancy",
   "version": "0.1.0",
-  "description": "Simple plguins to demonstrate the virancy capabilites of Hyper",
+  "description": "Simple plguin to demonstrate the vibrancy capabilites of Hyper",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
